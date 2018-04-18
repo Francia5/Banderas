@@ -1,0 +1,19 @@
+.bandera{
+    display: block;
+    width: 100%;
+    height: 20vh;
+
+   
+}
+
+.amarillo{
+    background-color: yellow;
+    color: black;
+}
+
+.gris{
+    background-color: gray;
+    color: white;
+
+}
+
