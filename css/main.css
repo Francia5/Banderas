@@ -1,7 +1,8 @@
 .bandera{
-    display: block;
+    display: inline-block;
     width: 20%;
     height: 20vh;
+    margin: 0px 10px;
 
    
 }
